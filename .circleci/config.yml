@@ -63,7 +63,7 @@ jobs:
           name: Deploy to S3
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              aws --region us-west-2 s3 sync build s3://giveaway.kimbyarting.com --delete
+              aws --region us-west-2 s3 sync build s3://portal.kimbyarting.com --delete
             fi
 
 workflows:
