@@ -63,24 +63,28 @@ class App extends Component {
         </div>
 
         <div className={ classes.buttonContainer }>
-          <Button
-            className={ classes.button }
-            href="https://bit.ly/2S7cGEn"
-          >
-            STORE
-          </Button>
+          <div>
+            <Button
+              className={ classes.button }
+              href="https://bit.ly/2S7cGEn"
+            >
+              STORE
+            </Button>
+          </div>
           {/* <Button
             className={ classes.button }
             href="http://kimbyarting.com/"
           >
             COMMISSIONS
           </Button> */}
-          <Button
-            className={ classes.button }
-            href="http://bit.ly/2ICe4xu"
-          >
-            YOUTUBE
-          </Button>
+          <div>
+            <Button
+              className={ classes.button }
+              href="http://bit.ly/2ICe4xu"
+            >
+              YOUTUBE
+            </Button>
+          </div>
           {/* <Button
             className={ classes.button }
             href="http://bit.ly/2IpBwyG"
@@ -88,18 +92,22 @@ class App extends Component {
             PATREON
           </Button> */}
           <div className={ classes.lineBreak }></div>
-          <Button
-            className={ classes.button }
-            href="http://bit.ly/2Zdy3bL"
-          >
-            PORTFOLIO
-          </Button>
-          <Button
-            className={ classes.button }
-            href="http://kimgreenough.com/contact"
-          >
-            CONTACT
-          </Button>
+          <div>
+            <Button
+              className={ classes.button }
+              href="http://bit.ly/2Zdy3bL"
+            >
+              PORTFOLIO
+            </Button>
+          </div>
+          <div>
+            <Button
+              className={ classes.button }
+              href="http://kimgreenough.com/contact"
+            >
+              CONTACT
+            </Button>
+          </div>
         </div>
       </div>
     );
