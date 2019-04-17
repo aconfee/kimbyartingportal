@@ -53,7 +53,7 @@ class App extends Component {
       <div className={ classes.page }>
         <div className={ classes.header }>
           <div>
-            <img className={ classes.headerImage } src="./prof.jpg" />
+            <img className={ classes.headerImage } src="./prof.jpg" alt="Kimbyarting profile" />
           </div>
           <Typography 
             variant="inherit"
