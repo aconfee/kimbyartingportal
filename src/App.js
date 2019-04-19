@@ -71,26 +71,38 @@ class App extends Component {
               STORE
             </Button>
           </div>
-          {/* <Button
-            className={ classes.button }
-            href="http://kimbyarting.com/"
-          >
-            COMMISSIONS
-          </Button> */}
           <div>
             <Button
               className={ classes.button }
-              href="http://bit.ly/2ICe4xu"
+              href="http://kimgreenough.com/contact"
             >
-              YOUTUBE
+              Commission Me for Custom Art
             </Button>
           </div>
-          {/* <Button
-            className={ classes.button }
-            href="http://bit.ly/2IpBwyG"
-          >
-            PATREON
-          </Button> */}
+          <div>
+            <Button
+              className={ classes.button }
+              href="http://bit.ly/2GvdL6o"
+            >
+              Newest Video: Drawing My Airbender-sona
+            </Button>
+          </div>
+          {/* <div>
+            <Button
+              className={ classes.button }
+              href="http://bit.ly/2IpBwyG"
+            >
+              Join my Discord
+            </Button>
+          </div>
+          <div>
+            <Button
+              className={ classes.button }
+              href="http://bit.ly/2IpBwyG"
+            >
+              Get my .PSDs
+            </Button>
+          </div> */}
           <div className={ classes.lineBreak }></div>
           <div>
             <Button
@@ -105,7 +117,7 @@ class App extends Component {
               className={ classes.button }
               href="http://kimgreenough.com/contact"
             >
-              CONTACT
+              Say Hi!
             </Button>
           </div>
         </div>
