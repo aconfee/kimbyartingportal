@@ -82,9 +82,9 @@ class App extends Component {
           <div>
             <Button
               className={ classes.button }
-              href="http://bit.ly/2GvdL6o"
+              href="http://bit.ly/2wdBkuv"
             >
-              Newest Video: Drawing My Airbender-sona
+              Newest Video: My Painting Process + Free Tutorial Files!
             </Button>
           </div>
           {/* <div>
@@ -94,15 +94,23 @@ class App extends Component {
             >
               Join my Discord
             </Button>
-          </div>
+          </div> */}
           <div>
             <Button
               className={ classes.button }
               href="http://bit.ly/2IpBwyG"
             >
-              Get my .PSDs
+              $2 Full Process Videos, .PSDs, Giveaways and More!
             </Button>
-          </div> */}
+          </div>
+          <div>
+            <Button
+              className={ classes.button }
+              href="http://bit.ly/2JzIe66"
+            >
+              Free Sample Process and .PSDs
+            </Button>
+          </div>
           <div className={ classes.lineBreak }></div>
           <div>
             <Button
