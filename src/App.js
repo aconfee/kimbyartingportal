@@ -74,7 +74,7 @@ class App extends Component {
           <div>
             <Button
               className={ classes.button }
-              href="https://kimgreenough.typeform.com/to/BfsN6p"
+              href="http://bit.ly/2O4tb7q"
             >
               Commission Me for Custom Art
             </Button>
